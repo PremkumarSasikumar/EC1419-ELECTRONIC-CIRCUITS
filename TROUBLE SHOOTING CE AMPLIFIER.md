@@ -7,7 +7,9 @@
 
 
 ## Tabulations 
+![h](https://github.com/user-attachments/assets/8dedb57a-625d-4cfe-a3a2-e5e96c8b06ac)
 
 ## Semilog Graph
+![i](https://github.com/user-attachments/assets/24b8b9d3-4d37-4f33-a9f8-a8d2a1962ae4)
 
 <img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
