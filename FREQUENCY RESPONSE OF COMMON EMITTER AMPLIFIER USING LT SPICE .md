@@ -27,6 +27,7 @@
 ## Tabulation
 
 ## Graph
+![c](https://github.com/user-attachments/assets/938fc21d-0ae9-4873-ae50-a6034003bd21)
 
 
 ## **Result**
